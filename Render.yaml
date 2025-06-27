@@ -3,8 +3,5 @@ services:
     name: anomaly-detector
     env: docker
     plan: free
-    region: oregon
     dockerfilePath: Dockerfile
-    envVars:
-      - key: PORT
-        value: 8000
+    region: oregon
