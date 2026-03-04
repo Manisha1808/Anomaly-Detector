@@ -26,17 +26,9 @@ Users can upload a CSV file, run anomaly detection, visualize results, and downl
 
 ## 🖼️ Output Screenshots
 
-### Dataset Upload Interface
-*(Add screenshot here)*
+<img width="975" height="414" alt="image" src="https://github.com/user-attachments/assets/068fb1ae-9445-434a-8cea-e1bb233e8cd8" />
 
-![Upload Interface](screenshots/upload.png)
-
----
-
-### Anomaly Detection Results
-*(Add screenshot here)*
-
-![Detection Results](screenshots/results.png)
+<img width="975" height="435" alt="image" src="https://github.com/user-attachments/assets/1b543b49-495f-49b8-a25e-669e1ce27feb" />
 
 ---
 
