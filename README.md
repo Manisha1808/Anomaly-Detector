@@ -32,10 +32,7 @@ Users can upload a CSV file, run anomaly detection, visualize results, and downl
 
 ---
 
-### Visualization of Anomalies
-*(Add screenshot here)*
 
-![Visualization](screenshots/chart.png)
 
 ---
 
